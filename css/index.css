@@ -1,0 +1,29 @@
+.my-first-calculator{
+    margin: 0 auto;
+    width: 450px;
+    height: 200px;
+    border: #000 4px solid;
+    background: #aaa;
+    text-align: center;
+    padding: 20px;
+}
+
+.my-first-calculator .operations-block button{
+    margin: 10px;
+    width: 80px;
+    height: 80px;
+    border: #000 4px solid;
+    background: #fff;
+    text-align: center;
+}
+
+.my-first-calculator .inputs-block .input-block{
+    display: inline-block;
+    text-align: center;
+    border: #000 4px solid;
+    padding: 5px;
+}
+
+.my-first-calculator .inputs-block .input-block label{
+    display: block;
+}
